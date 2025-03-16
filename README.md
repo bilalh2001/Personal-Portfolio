@@ -12,4 +12,4 @@ A personal website built using HTML and CSS to showcase my skills, projects, and
 <h2>Environments Used </h2>
 
 - <b>Web Browser</b>
-- <b>Local Development Environment</b>
+- <b>Visual Studio Code</b>
